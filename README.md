@@ -14,6 +14,7 @@ Welcome to the ATS Publications App repository! This app provides access to a co
 #### Download Links
 - [Download for Windows (.zip)](https://github.com/islammohy/ats-pub/releases/download/v1.0.0/ATS.APP.Windows.zip)
 - [Download for Windows (.7z)](https://github.com/islammohy/ats-pub/releases/download/v1.0.0/Windows.v1.0.7z)
+- [Download for Android (Google Play)](https://play.google.com/store/apps/details?id=com.ats.gatsapp&pli=1)
 - [Download for Android (.apk)](https://github.com/islammohy/ats-pub/releases/download/v1.0.0/Android.v1.0.apk)
 - [Download for iOS (App Store)](https://apple.co/43N7fPE)
 
