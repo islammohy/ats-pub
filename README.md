@@ -1,7 +1,7 @@
 
 
 
-# ATS Publications Genral App release v 1.0
+# ATS Publications General App release v 1.0
 
 Welcome to the ATS Publications App repository! This app provides access to a collection of martial for all ATS books.
 
